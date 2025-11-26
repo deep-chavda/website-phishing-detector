@@ -34,23 +34,9 @@ python train_phish_model.py
 Run the app
 python app.py
 
-
 App runs at: localhost
 
-## API Example
-Request
-POST /api/predict
-{
-  "url": "http://secure-login-example.com/verify"
-}
 
-Response
-{
-  "url": "http://secure-login-example.com/verify",
-  "phishing_score": 0.91,
-  "verdict": "PHISHING"
-}
-
- ##License
+## License
 
 MIT — free to use and modify.
