@@ -18,11 +18,11 @@ Extracts URL-based features automatically
 Easy to run locally
 
 ## Project Structure
-app.py                  # Flask UI + API
-train_phish_model.py    # Training script + URL feature extractor
-models/phish_detector.joblib
-dataset_phishing.csv
-README.md
+app.py                  # Flask UI + API <br>
+train_phish_model.py    # Training script + URL feature extractor <br>
+models/phish_detector.joblib <br>
+dataset_phishing.csv <br>
+README.md <br>
 
 ## Setup
 Install dependencies
